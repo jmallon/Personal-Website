@@ -12,7 +12,6 @@ jobtitle: "Movement Ecologist, PhD Candidate"
 address: "Biological Sciences · University of Maryland · College Park, MD 20012 · USA"
 fontawesome: yes
 email: jmmallon@umd.edu
-#phone: "(267) 697-2117"
 web: terpconnect.umd.edu/~jmmallon/
 updated: no
 
@@ -43,14 +42,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #RESEARCH
 ##University of Maryland 
--	Environmental drivers of stopover use by Turkey Vultures (*Cathartes aura*)
+- Environmental drivers of stopover use by Turkey Vultures (*Cathartes aura*)
 - Energetic costs of migration and stopover use by Turkey Vultures (*Cathartes aura*)
 - Phylogenetic and ecological signals in avian movements 
 
 
 ##West Virginia University			  
--	Turbulent uplift use by Cathartid vultures
--	Global-scale response to uplift availability by soaring black and turkey vultures  
+- Turbulent uplift use by Cathartid vultures
+- Global-scale response to uplift availability by soaring black and turkey vultures  
 
 
 #PUBLICATIONS
@@ -109,42 +108,4 @@ Conservation Leaders for Tomorrow (CLfT) – hunter safety course \hfill 2013
 
 
     
-
-```{r, echo=FALSE, eval=FALSE}
-##West Virginia University			  
--	Turbulent uplift use by Cathartid vultures  
-    -	Described a new behavior, *contorted soaring*, used by black and turkey vultures
-    -	Linked species flight behaviors to foraging and ecological role as scavengers  
--	Global-scale response to uplift availability by soaring black and turkey vultures  
-    -	Assessing use of uplift resources across their distributions
-    -	Linking species flight behaviors to their potential and current distributions across North and South America  
-
-Tree Climbing certification  \hfill 2013  
-#VOLUNTEER EXPERIENCE	
-##City Dogs Rescue and City Kitties 
-- Foster adult cats \hfill 2018
-- Socialize cats with dogs
-- Promote cat adoption
-
-##Avian Conservation Center of Appalachia, Cheat Lake, West Virginia 
--	Bled raptors and assisted in handling birds \hfill 2013 – 2014
--	Analyzed lead-levels blood samples
--	Weekly care of birds of prey
--	Birds on the glove 
--	Assisted in banding rehabilitated birds
-- Educated public of raptor biology and conservation
-
-##Mercer County Wildlife Center, Lambertville, New Jersey
--	Rehabilitation Intern   \hfill 2009 - 2010  
-
-##Society for Conservation Biology  
-- PR Officer  \hfill 2012 - 2014
-- Coordinated an art auction to benefit Avian Conservation Center of Appalachia
-
-##RESEARCH INTERESTS
--	*Movement ecology* 
-- *Behavioral responses to environmental drivers by animals*
-- *Conservation in human-impacted systems*
--	*Data science* 
-```
 
