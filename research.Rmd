@@ -1,0 +1,66 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+      before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml"
+  #template: 
+updated: yes
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+###Research Interests:
+I am interested in understanding how animals respond and are influenced by their environment as they move. I currently study soaring birds and use turkey vultures (*Cathartes aura*) as a model species for terrestrial soaring and energy minimization. I am also interested in data science, movement ecology, and conservation of both common and threatened species.
+
+<br>
+
+###Current research:
+For my PhD, I am investigating how weather affects the stopover behavior of migrant turkey vultures. I use this understanding of their response to weather to quantify how much energy vultures require to migrate and to stopover, and predict how climate change will affect their survival and migration performance.
+
+Several populations of turkey vulture are long distance migrants. And while these birds are well-adapted for soaring long distances, they are obligate soaring birds and depend on environmental  updrafts to complete their migration. So if they encounter bad weather, turkey vultures will be forced to stopover and delay migration until conditions are suitable for soaring again.  
+
+To further complicate things, vultures are obligate-scavengers and most individuals must complete their migration without feeding due to competition and time/energy constraints.    
+
+Understanding how turkey vultures respond to weather during migration and how they complete their migrations, energetically, is important to the future of this keystone species. It is possible that under future climate change scenarios, turkey vultures will have to stopover more often and may completely deplete their fat reserves, potentially lowering their fitness or migratory performance.
+<br>
+
+---------------------------------------------------------------------------------------
+Black Vulture                                              Turkey Vulture                        
+---------------------------------------------------- -----------------------------------------------------------------------
+![](/Users/Julie/Pictures/UMD website pics/blvu.JPG) ![](/Users/Julie/Pictures/UMD website pics/tuvu.JPG) 
+---------------------------------------------------- -----------------------------------------------------------------------
+
+###Past research:
+I have a Master's in Wildlife Management from West Virginia University where I studied the flight behavior of black and turkey vultures in rural Virginia. I chose to study flight in vultures because they are a model organism for soaring flight, meaning they are extremely well adapted for soaring, and do so better than most other bird species!
+
+My research was published in the Auk ([available for free here](http://www.bioone.org/doi/full/10.1642/AUK-15-114.1)), which compares the flight behavior of sympatric black and turkey vultures. What makes this comparison interesting is that these species compete for the same resources, but differences in their flight and foraging strategies partition this niche and allow them to live sympatrically. Black vultures are gregarious and soar high to visually find large carrion that is out in the open. Turkey vultures, in contrast, soar lower than black vultures and use 'contorted soaring' to stay aloft at low altitudes where they can search for carrion olfactively, thereby using more carrion that is small or hidden and cannot be found by black vultures!
+  
+<br>
+
+###Press:
+My research was featured in the [New York Times](https://www.nytimes.com/2015/12/29/science/how-turkey-vultures-stay-aloft-to-focus-on-dinner.html) and the [BBC](http://www.bbc.com/news/science-environment-35159830). An interview about vultures and my masters research was featured in a book - [_Vulture: The Private Life of an Unloved Bird_](https://www.amazon.com/Vulture-Private-Life-Unloved-Bird/dp/1611689716) by Katie Fallon.
+
+<br>
+
+###Publications:
++ Mallon, J. M., K. L. Bildstein, and T. E. Katzner. 2016. In-flight turbulence benefits soaring birds. The Auk, 133: 79-85. 
+
++ Mallon, Julie M., Kelly Swing, and Diego Mosquera. 2013. Neotropical vulture scavenging succession at a capybara carcass in eastern Ecuador. Ornitología Neotropical, 24: 475-480. 
+
++ Mallon, J., K. Rittenhouse, C. Turrin, W. Frew, and K.L. Bildstein. 2011. Kestrels of the world. Hawk Mountain Sanctuary Association. Published online.
+
+<br>
+
+###Links:
+My home is in the [Bill Fagan Lab](http://www.clfs.umd.edu/biology/faganlab/) at University of Maryland, College Park  
+
+Collaborator's blog: [The Vulture Chronicles](https://thevulturechronicles.wordpress.com/)
+
+[Biological Sciences Graduate Program](http://www.bisi.umd.edu/)  
+
+<hr>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>

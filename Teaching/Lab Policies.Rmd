@@ -1,0 +1,106 @@
+---
+title: "BSCI 161 Lab Policies"
+author: "Julie Mallon"
+date: "August 27, 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Absences
+- Only 3 missed classes are allowed   
+    - Excused and unexcused!  
+- Be on time. Doors are closed after 10 minutes
+    - *Lateness counts as an absence*
+- Reschedule labs in advance  
+     - Sports, travel, etc  
+- Make-up assignments 
+    - Any reason!
+    - Email Hans <bsci161@umd.edu>  
+- **Pre-labs are due before lab, regardless!**
+
+##Rules
+- Hang up bags and coats  
+- No food or drink  
+- Cell phones are a privilege   
+    - Pictures and calculator use only  
+    - Don’t let them be a distraction  
+    
+##Safety
+- Fire extinguisher, fire alarm/drill   
+- Eyewash/shower, first aid kits 
+- No need for lab coats, etc
+
+##Academic Integrity
+- Cheating  
+- Fabrication
+- Facilitiating academic dishonesty
+- Plagarism
+
+*Applies to lab and lecture
+
+##Grades
+
+---------------- ----------
+Pre-lab          25%
+Worksheets       20%
+Assignments (3)  55%
+---------------- ----------
+
+<br>
+
+*Lab and Lecture grades are separate
+
+
+## Pre-lab = 25%
+
+- Described in the beginning of next week’s lab 
+    - In your lab manual
+    - On ELMS
+- Worksheets, SimUText, etc
+- ELMS Quizzes
+    - 9 total 
+      - only 8 will count (drop the lowest score)
+      - **OPEN BOOK, OPEN NOTES**
+      - Most are timed: 15 minutes
+    - Problem during prelab?
+        - *That's why you can drop one!*
+
+
+## Worksheets = 20%
+- Turn in at the end of most labs
+- In lab manual
+- Read questions carefully
+- Extra Question(s)
+    - Exam concepts
+    - For me to check your understanding
+
+
+## ELMS
+- To email me
+- Grade information
+    - Check that grades on your worksheets match!
+- Prelab descriptions
+- Quizzes
+
+
+##Contact me
+- jmmallon@umd.edu
+- Website: terpconnect.umd.edu/~jmmallon
+- Via Canvas/ELMs or in person
+- Contact me about anything personal
+    - Lecture, lab or not class related
+    - Questions about science, etc
+   
+##Contact Hans
+- Absences and Make-ups  
+- ELMs issues  
+- <bsci161@umd.edu>  
+
+##Homework for this week  
+- Purchase lab manual  
+- Lab policy pre-lab  
+    - Must get 10/10  

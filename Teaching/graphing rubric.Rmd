@@ -1,0 +1,31 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+       before_body: "~/Box Sync/Personal Website/templates/web_header.Rhtml" 
+      #before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml"
+  #template: 
+updated: yes
+---
+#Graphing Rubric
+<br>
+
+1.	Caption (2 sentence minimum)
+2.	Axis labels
+3.	Correct indpendent/dependent variables
+4.	Correct number of lines or bars
+5.	All of your data (or means, where appropriate)
+6.	Correct graph type
+7.	Legend/key
+8.  Units
+9.	Appropriate scale
+
+<br>
+Here is the [lecture](Meiosis.pdf) where we discussed graphing.
+
+And here are some extra resources: an [excel how-to](nat selection example.xlsx), [examples of good and bad graphs](Good and Bad Graph Examples.pdf)
+
+
+<br>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>

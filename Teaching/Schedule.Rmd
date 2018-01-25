@@ -1,0 +1,83 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+     # before_body: "~/Box Sync/Personal Website/templates/web_header.Rhtml" 
+       before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml" 
+  #template: 
+updated: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#BSCI 161
+[Lab Policies](teaching.html) | [Schedule & Lectures](#schedule) | [Assignments](assignments.html) 
+
+<br>
+<center>
+-------------------------------------------------
+E-mail:                 Office Hours:                          
+----------------------- ------------------- 
+ jmmallon@umd.edu <br>  3206 HJP<br>         
+ <br>                   Mon 2-4 pm<br> 
+ <br>                   <br>                  
+ ----------------------- ------------------- 
+</center>
+
+Lecture notes will be uploaded here each week for reference.
+
+#Semester Schedule {#schedule}
+```{r Schedule, echo=FALSE}
+library(knitr)
+tab<-cbind("Week"=c(1,1:15),
+           "Dates"= c("8/31",
+                    "8/31",
+                    "9/07",
+                    "9/14",
+                    "9/21",
+                    "9/28",
+                    "10/05",
+                    "10/12",
+                    "10/19",
+                    "10/26",
+                    "11/02",
+                    "11/09",
+                    "11/17",
+                    "11/24",
+                    "11/30",
+                    "12/07"),
+           "Lecture"=c("[Lab Policies](Lab_Policies.html)",
+                        "[Introduction to Experimental Design](Intro_Lecture.pdf)",
+                       "Labor Day - No Labs",
+                        "[Experiments with Natural Selection](Natural_Selection.pdf)",
+                        "[Mendel, Meiosis, and Graphing](Meiosis.pdf)",
+                        "[Population Genetics](PopGen.pdf)",
+                        "[Investigating Phylogenies](tree thinking.pdf)",
+                        "[Advanced and Applied Tree Thinking](adv tree thinking.pdf)",
+                        "[Data Analysis](Data Analysis.pdf)",
+                        "[Inquiry I: Research Techniques](Inquiry1.pdf)",
+                        "[Inquiry II: Limiting Nutrients and Designing an Experiment](Inquiry2.pdf)",
+                        "[Inquiry III: Setting up the Experiment and Writing Methods](Inquiry3.pdf)",
+                        "[Inquiry IV: Presentation skills, Data Collection, and Analyses](Inquiry4.pdf)",
+                        "Thanksgiving Break - No Labs",
+                        "[Measuring Biodiversity](Biodiversity.pdf)",
+                        "Presentations"),
+           "Assignment Due"=c('--','--','--','--','--',
+                              '[Natural Selection](assignments.html)',
+                              '--','--','--','--','--',
+                              '--','[Museum Assignment](assignments.html)','--',
+                              '[Inquiry Research Report](assignments.html)',
+                              '[Inquiry Presentation](assignments.html)'))
+kable(tab)
+```
+
+
+
+
+
+<br>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>
+

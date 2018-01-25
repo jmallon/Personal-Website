@@ -1,0 +1,18 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+      before_body: "~/Box Sync/Personal Website/templates/home_header.html"
+updated: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#https://bootswatch.com/simplex/
+```
+
+
+
+<br>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>
