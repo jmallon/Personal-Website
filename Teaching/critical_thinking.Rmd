@@ -39,14 +39,14 @@ Any claim that cannot be falsified is a belief/emotive statement
     
   - or evidence does falsify the claim
       - use other nonfalsifiable claims to reject evidence
-      - e.g. pictures of the earth that depict it as a sphere are photoshopped (better example)
+      - e.g. pictures of the earth that depict it as a sphere are photoshopped 
       
 ## Logic
 Any argument offered as evidence in support of any claim must be sound
 - valid if conclusion follows unavoidably from its premises
 - sound if it's premises are true
 
-invalid if you can think of a counter-example or not all premises are true
+Invalid if you can think of a counter-example or not all premises are true
 1. All dogs have fur; Mittens has fur; therefore, Mittens is a dog
 2. All dogs have fur -> my dog, therefore, has fur
 
@@ -54,10 +54,8 @@ invalid if you can think of a counter-example or not all premises are true
 All of the available evidence must be considered
 - E.g. rejecting the evidence of climate change
 
-##Honesty
+## Honesty
 The evidence offered in support of any claim must be evaluated without self-deception
-
-- E.g. rejecting the evidence of climate change
 
 ## Replicability
 Due to error, fraud, chance, and coincidence, experiments must be repeated to support a claim as true
@@ -101,10 +99,10 @@ sources: 1, 2, 3, 4
 ##What are the problems with the study?
 - sample size of 12
 - subjects were not randomly selected - they were selected because they were consistent with his hypothesis
-- Wakefield was paid by a source that was looking for damaging evidence against the manufacturers of a vaccine and is a 'conflict of interest'
+- Wakefield was paid by a source that was looking for damaging evidence against the manufacturers of a vaccine; this is a 'conflict of interest'
 - Methods are not replicable as qualitiative data are inconsistent
-- Wakefield's claim is nonfalisifiable and not supported by any evidence
-
+- Wakefield's claim is not supported by any evidence
+- Wakefield's claim not falsifiable
 
 ## Recent Health Science Publication
 [Vitamin B3 could prevent birth defects, miscarriages, scientists say](www.foxnews.com/health/2017/08/10/vitamin-b3-could-prevent-birth-defects-miscarriages-scientists-say.html)
