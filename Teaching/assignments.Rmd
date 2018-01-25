@@ -1,0 +1,61 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+     # before_body: "~/Box Sync/Personal Website/templates/web_header.Rhtml" 
+       before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml" 
+  #template: 
+updated: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#BSCI 161
+[Lab Policies](teaching.html) | [Schedule & Lectures](Schedule.html) | [Assignments](#assignments) 
+
+<br>
+<center>
+-------------------------------------------------
+E-mail:                 Office Hours:                          
+----------------------- ------------------- 
+ jmmallon@umd.edu <br>  3206 HJP<br>         
+ <br>                   Mon 2-4 pm<br> 
+ <br>                   <br>                  
+ ----------------------- ------------------- 
+</center>
+
+Any *extra* information about assignments will be posted here. Refer to [ELMs](https://myelms.umd.edu/courses/1227400) for all official information about lab assignments.
+
+
+###Other Links
++ [Population Genetics Class Data](https://docs.google.com/spreadsheets/d/1VN4CqTX8sYAMrdIb3uXXUTfHevSp4omPu_m0Q3_Dw9w/edit#gid=0)
+
+
+###Natural Selection {#assignments}
++ [Graphing rubric](graphing_rubric.html)
++ [Excel how-to](nat selection example.xlsx)
++ [Examples of good and bad graphs](Good and Bad Graph Examples.pdf)
+
+
+###Museum Assignment
++ [Museum Assignment Tips](museum assignment.pdf)
+
+###Inquiry Report
++ [Excel Example Spreadsheet](inquiry example.xlsx)
+
+
+*To use these R scripts, save the script(s) and your data (.csv) to the desktop and follow the instructions in the script*
+
++ [Multiple Nutrients R Script](Anova.R)
++ [Regression R Function](RegressionFunction.R)
++ [Regression R Script](RegressionScript.R)
+
+
+
+
+<br>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>
+

@@ -1,0 +1,61 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+      before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml"
+  #template: 
+updated: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#BSCI 161
+[Lab Policies](#policies) | [Schedule & Lectures](Schedule.html) | [Assignments](assignments.html) 
+
+<br>
+<center>
+-------------------------------------------------
+E-mail:                 Office Hours:                          
+----------------------- ------------------- 
+ jmmallon@umd.edu <br>  3206 HJP<br>         
+ <br>                   Mon 2-4 pm<br> 
+ <br>                   <br>                  
+ ----------------------- ------------------- 
+</center>
+
+#####Section 6408 meets at 2 pm on Thursdays in 3217 HJP  
+#####Section 6411 meets at 5 pm on Thursdays in 3217 HJP  
+
+<br>
+
+###Lab Policies - [Powerpoint](Lab_Policies.html) {#policies}
+1. Attendance in the laboratory is **mandatory**.  
++ [Contact Hans Lemke](mailto:bsci161@umd.edu), (HJP 3212) if you miss a lab for university excused reasons.   + You will not get credit for the prelab if you miss a lab for unexcused reasons.
++ Absence from **more than three** labs will result in automatic failure of the course.
++ You will not be permitted to attend laboratory if you arrive more than 10 minutes late - see Hans.  
++ Get a make up assignment for any absence to get your pre-lab and worksheet points! Just ask Hans
+2. Work is due at the beginning of lab, unless otherwise indicated.  
++ The penalty for later work is **10% per day**, and _no work will be accepted more than five days late!!! _ 
++ Plagiarism is defined by the university as "intentionally or knowingly representing the words or ideas of another as one's own in any academic exercise." DON"T DO IT!  Cases of plagiarism **will** be referred to the Office of Judicial Programs for disciplinary action.  
++ If you have any doubt about what constitute plagiarism … ASK ME!!!!  
+3. See the lab manual or [ELMS](https://myelms.umd.edu/courses/1227400/pages/policies-and-grading-information) for more details.
+4. Syllabus available [here](https://myelms.umd.edu/courses/1227400/files/47113538/download?wrap=1).
+
+<br><br>
+
+###Useful Resources
+ELMS Course Web Site:  <https://myelms.umd.edu/courses/1227400>  
+Personal, Social, Academic, and Career Counseling: <https://www.counseling.umd.edu>  
+Writing Center: <http://www.english.umd.edu/academics/writingcenter>  
+Learning Assistance Service: <http://www.counseling.umd.edu/LAS/index.html>  
+Disability support service (DSS): <http://www.counseling.umd.edu/ads/>  
+Office of Student Conduct: <http://www.studentconduct.umd.edu/>  
+Guided Study Sessions: <https://www.counseling.umd.edu/las/academic/gss/>  
+Tutoring: <http://www.tutoring.umd.edu/>
+
+<br>
+<center>*updated `r format(Sys.Date(), "%B %d, %Y")`*</center>
+

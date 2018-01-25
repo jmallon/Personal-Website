@@ -1,0 +1,47 @@
+---
+output: 
+  rmarkdown::html_document:
+    theme: simplex
+    includes: 
+      #before_body: "~/Box Sync/Personal Website/templates/web_header.Rhtml" 
+       before_body: "C://Users/Julie/Box Sync/Personal Website/templates/web_header.Rhtml" 
+  #template: 
+#updated: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Blog
+
+<br>
+
+###How to Do Citizen Science on Your Computer
+**`r format(Sys.Date(), "%B %d, %Y")`**
+
+<br>
+Science can at sometimes seem abstract, remote, and elite. You might think to yourself 'only scientists can do science', or 'I can't be a scientist'. But in reality, we are in the age of data science. We collect data in the forms of remote sensing, tracking devices, photography, videos, and internet data, to name a few. 
+
+To get through all this data, scientists are asking for help from citizens. Even better, you don't need to leave the comfort of your couch! 
+
+Want to watch condors scavenging and learn about their life histories? [Condor Watch](https://www.condorwatch.org/#/) needs help identifying individuals and their behaviors.
+
+<br>
+<center>![](https://www.condorwatch.org/images/condor-vulture-1.jpg)
+
+
+*image source* [https://www.condorwatch.org/#/field-guide](https://www.condorwatch.org/#/field-guide) </center>
+<br>
+Condors are a huge conservation success, and were extinct in the wild less than 30 years ago! But scientists still need to monitor the population closely so they can determine if any individuals have died or need veternary care. These images are from those monitoring efforts, and we can learn a lot more about the ecology of scavenging with the help of citizen scientists like you.
+
+Worried you'll get something wrong? We all do sometimes! Good news is you won't be the only one who is analyzing the images so just by having each image analyzed several times, scientists can be very confident in your contribution!
+
+<br>
+**Find a project that you love!**
+Not into California Condors? Check out all of the other projects you can participate in on [Zooniverse](https://www.zooniverse.org/).
+
+If you are a university student, there may be opportunities for you to do this work in a lab for course credit or pay, and develop a working relationship with the scientists behind the study.
+
+If you are looking for something you can do offline (it's nice outside, I swear!), I'll write another post soon with things you can do in your home and in your community.
+
